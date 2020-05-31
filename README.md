@@ -12,5 +12,5 @@ Reto: Front End Developer Medium/Senior
 # Agregar Modulos
 - ejecutar comando terminal <code>npm install</code>
 
-# Correr Alicación
+# Correr Aplicación
 - ejecutar comando terminal <code>ng serve --open</code>
